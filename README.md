@@ -13,6 +13,7 @@ SeedStick is a hand-held planting tool for land restoration. It checks the soil,
 depth and counts every one, so planting goes faster without losing care.
 
 🏆 **1st place in the Preliminary Round at the UNSW Build-a-thon 2026**
+
 🏆 **1st place Overall at the UNSW Build-a-thon 2026** (RAMSoc × WIT with UNSW Founders, track: restoration), out of 60 teams
 and about 300 participants.<br>
 💚 **People's Choice Award**: voted the favourite project by the visitors and participants of the final showcase at
