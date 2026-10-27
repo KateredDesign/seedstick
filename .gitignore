@@ -1,0 +1,19 @@
+# secrets: your own Wi-Fi password lives here and is never committed
+firmware/**/secrets.h
+.env
+.env.*
+
+# build output (compile with the Arduino IDE or arduino-cli; keep build folders outside the repo)
+build/
+firmware/**/build/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.swp
+~$*
+.vscode/
+.idea/

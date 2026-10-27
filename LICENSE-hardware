@@ -1,0 +1,16 @@
+SeedStick hardware and documentation
+Copyright (c) 2026 SeedStick team
+
+The 3D models (hardware/stl), the laser file (hardware/laser), the documentation
+(*.md, docs/) and the images (docs/images) are licensed under the
+Creative Commons Attribution 4.0 International licence (CC BY 4.0).
+
+You may share and adapt the material for any purpose, including commercially,
+as long as you give appropriate credit, provide a link to the licence and
+indicate if changes were made.
+
+Licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary:      https://creativecommons.org/licenses/by/4.0/
+
+Not covered: docs/index.html and docs/dark.html contain third-party code under
+the MIT licence (see THIRD_PARTY.md).
